@@ -1,14 +1,14 @@
-# 🌱 AI Greenhouse Automation
+#  AI Greenhouse Automation
 
 An AI-based Smart Greenhouse Robot project developed using Python. This project analyzes greenhouse data, monitors soil moisture, and simulates intelligent robots that help automate plant watering.
 
-## 📌 Project Overview
+## Project Overview
 
 The main goal of this project is to make plant watering smarter and more efficient.
 
 The system uses greenhouse sensor data to identify plants that need water and simulates intelligent agents to perform watering tasks.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze greenhouse data using Pandas and NumPy.
 - Handle missing values in the dataset.
@@ -17,7 +17,7 @@ The system uses greenhouse sensor data to identify plants that need water and si
 - Simulate a watering robot.
 - Compare Simple Reflex and Model-Based Agents.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -25,7 +25,7 @@ The system uses greenhouse sensor data to identify plants that need water and si
 - Matplotlib
 - Seaborn
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 AI-Greenhouse-Automation/
@@ -37,7 +37,7 @@ AI-Greenhouse-Automation/
 └── README.md
 ```
 
-## ⚙️ Project Tasks
+##  Project Tasks
 
 ### Q1: Data Analysis and Visualization
 
@@ -57,7 +57,7 @@ AI-Greenhouse-Automation/
 - Implement a Model-Based Agent.
 - Calculate robot performance scores.
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install Required Libraries
 
@@ -79,7 +79,7 @@ python Q2.py
 
 **Note:** Keep `greenhouse.csv` in the same folder as `Q1.py`. Run Q1 first because it generates `greenhouse_clean.csv`, which is used by Q2.
 
-## 🧠 AI Concepts
+##  AI Concepts
 
 - Intelligent Agents
 - Simple Reflex Agent
@@ -88,7 +88,7 @@ python Q2.py
 - Decision Making
 - State and Memory
 
-## 👨‍💻 Author
+##  Author
 
 Developed as an Artificial Intelligence Lab Mid-Term Project.
 
